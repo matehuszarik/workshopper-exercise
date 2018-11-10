@@ -1,0 +1,14 @@
+{
+  "compare": {
+      "title": "A megoladsod osszehasonlitva a vart megoldassal:"
+    , "actual": "JELENLEGI"
+    , "expected": "VART"
+    , "pass": "A megoldasod egyezik!"
+    , "fail": "A megoldasod nem egyezik a varttal!"
+  }
+, "error": {
+      "missing_problem": "Could not find problem.txt or problem.md for [{{{name}}}] {{{err}}}"
+    , "submission_no_file": "Nem letezo fajl: {{{submission}}}"
+    , "submission_not_regular": "Not a regular file: {{{submission}}}"
+  }
+}
